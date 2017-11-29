@@ -1,0 +1,1 @@
+This repo will contain my practise html, css and javascript projects.
